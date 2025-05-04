@@ -14,7 +14,7 @@
   <!-- Favicon -->
   <link rel="icon" href="favicon.ico" />
 
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body class="dark-mode">
 
